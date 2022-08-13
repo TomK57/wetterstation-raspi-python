@@ -5,6 +5,7 @@
 ## verwandte Projekte
 - [Raspberry Foundation](https://projects.raspberrypi.org/en/projects/build-your-own-weather-station)
 - [3D print weather station](https://hackaday.com/2018/04/05/a-true-3d-printed-weather-station/)
+- [Gehaesue Temperatur/Feuchte/Druck](https://www.thingiverse.com/thing:4120452)
 ## Links
 - [Wetterstation mit ESP32](www.elektormagazine.de/magazine/elektor-69/42263/)
 - [Wetterstation Projekt Webseite](www.elektormagazine.de/191148-03/)
