@@ -10,5 +10,4 @@
 - [Wetterstation mit ESP32](www.elektormagazine.de/magazine/elektor-69/42263/)
 - [Wetterstation Projekt Webseite](www.elektormagazine.de/191148-03/)
 - [Elektor-Labs-Webseite](www.elektormagazine.com/labs/remake-elektor-weather-station)
-- [Luftdrucksensor BMP180](https://www.einplatinencomputer.com/raspberry-pi-luftdrucksensor-bmp180-ansteuern/)
-- 
+- [Luftdrucksensor BMP180](https://www.laub-home.de/wiki/Raspberry_Pi_BMP180_Luftdruck_Sensor)
