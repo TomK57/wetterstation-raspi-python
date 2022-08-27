@@ -1,9 +1,10 @@
 ## Literatur
+- MagPi 05/2018 September/Oktober Wetterstation bauen, [Link](https://www.magpi.de/magazine/2018/13)
 - Make 4/2022 Solarstrom für Mikrocontroller, Teil 1 [Link](www.make-magazin.de/xnry)
 - elektor Nr.573 - Mai/juni 2020 - Open-Network-Wetterstation Mark 2 
 - [Umweltsensoren für Mikrocontroller](www.make-magazin.de/xgrd)
 ## verwandte Projekte
-- [Raspberry Foundation](https://projects.raspberrypi.org/en/projects/build-your-own-weather-station)
+- [Raspberry Foundation](https://projects.raspberrypi.org/en/projects/build-your-own-weather-station/0)
 - [3D print weather station](https://hackaday.com/2018/04/05/a-true-3d-printed-weather-station/)
 - [Gehaesue Temperatur/Feuchte/Druck](https://www.thingiverse.com/thing:4120452)
 ## Links
