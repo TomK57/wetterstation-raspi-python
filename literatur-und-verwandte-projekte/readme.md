@@ -11,3 +11,4 @@
 - [Wetterstation Projekt Webseite](www.elektormagazine.de/191148-03/)
 - [Elektor-Labs-Webseite](www.elektormagazine.com/labs/remake-elektor-weather-station)
 - [Luftdrucksensor BMP180](https://www.laub-home.de/wiki/Raspberry_Pi_BMP180_Luftdruck_Sensor)
+- [Datenblatt BMP180](https://cdn-shop.adafruit.com/datasheets/BST-BMP180-DS000-09.pdf)
