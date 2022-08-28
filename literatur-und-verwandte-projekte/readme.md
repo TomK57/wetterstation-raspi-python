@@ -11,5 +11,6 @@
 - [Wetterstation mit ESP32](www.elektormagazine.de/magazine/elektor-69/42263/)
 - [Wetterstation Projekt Webseite](www.elektormagazine.de/191148-03/)
 - [Elektor-Labs-Webseite](www.elektormagazine.com/labs/remake-elektor-weather-station)
-- [Luftdrucksensor BMP180](https://www.laub-home.de/wiki/Raspberry_Pi_BMP180_Luftdruck_Sensor)
+- [Luftdruck - und Temperatursensor BMP180](https://www.laub-home.de/wiki/Raspberry_Pi_BMP180_Luftdruck_Sensor)
 - [Datenblatt BMP180](https://cdn-shop.adafruit.com/datasheets/BST-BMP180-DS000-09.pdf)
+- [Feuchtigkeits- und Temperatursensor DHT22](https://pimylifeup.com/raspberry-pi-humidity-sensor-dht22/)
