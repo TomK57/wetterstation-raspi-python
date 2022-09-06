@@ -8,9 +8,9 @@
 - [3D print weather station](https://hackaday.com/2018/04/05/a-true-3d-printed-weather-station/)
 - [Gehaesue Temperatur/Feuchte/Druck](https://www.thingiverse.com/thing:4120452)
 ## Links
-- [Wetterstation mit ESP32](www.elektormagazine.de/magazine/elektor-69/42263/)
-- [Wetterstation Projekt Webseite](www.elektormagazine.de/191148-03/)
-- [Elektor-Labs-Webseite](www.elektormagazine.com/labs/remake-elektor-weather-station)
+- [Wetterstation mit ESP32](https://www.elektormagazine.de/magazine/elektor-69/42263/)
+- [Wetterstation Projekt Webseite](https://www.elektormagazine.de/magazine/elektor-147/58575)
+- [Elektor-Labs-Webseite](https://www.elektormagazine.com/labs/remake-elektor-weather-station)
 - [Luftdruck - und Temperatursensor BMP180](https://www.laub-home.de/wiki/Raspberry_Pi_BMP180_Luftdruck_Sensor)
 - [Datenblatt BMP180](https://cdn-shop.adafruit.com/datasheets/BST-BMP180-DS000-09.pdf)
 - [Feuchtigkeits- und Temperatursensor DHT22](https://pimylifeup.com/raspberry-pi-humidity-sensor-dht22/)
