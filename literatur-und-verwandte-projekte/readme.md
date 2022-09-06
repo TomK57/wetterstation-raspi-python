@@ -14,3 +14,4 @@
 - [Luftdruck - und Temperatursensor BMP180](https://www.laub-home.de/wiki/Raspberry_Pi_BMP180_Luftdruck_Sensor)
 - [Datenblatt BMP180](https://cdn-shop.adafruit.com/datasheets/BST-BMP180-DS000-09.pdf)
 - [Feuchtigkeits- und Temperatursensor DHT22](https://pimylifeup.com/raspberry-pi-humidity-sensor-dht22/)
+- [MH-Z19B CO2-Sensor] (https://tutorials-raspberrypi.de/raspberry-pi-co2-sensor-mh-z19-tutorial/)
